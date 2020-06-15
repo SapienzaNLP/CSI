@@ -24,7 +24,7 @@
   <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
 ```
 @inproceedings{lacerraetal:2020,
-  title={CSI: A Coarse Sense Inventory for 85\% Word Sense Disambiguation},
+  title={ {CSI}: A Coarse Sense Inventory for 85\% Word Sense Disambiguation},
   author={Lacerra, Caterina and Bevilacqua, Michele and Pasini, Tommaso and Navigli, Roberto},
   booktitle={Proceedings of the 34th Conference on Artificial Intelligence},
   publisher={Association for the Advancement of Artificial Intelligence},
@@ -64,7 +64,7 @@ lacerra [at] di.uniroma1.it</p>
 <div>
 <img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/csi/master/docs/_images/dino1.jpg" width="60px">
 <p class="content-holder">
-  <a href="http://wwwusers.di.uniroma1.it/~navigli/" target='_blank'>Roberto Navigli</a><br/>
+  <a href="http://www.users.di.uniroma1.it/~navigli/" target='_blank'>Roberto Navigli</a><br/>
   Full Professor @ Sapienza<br/>
   navigli [at] di.uniroma1.it
 </p>
