@@ -37,7 +37,9 @@
 <div>
   
 <img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/csi/master/docs/_images/dino4.jpg" width="60px" >
-<p class="content-holder">Caterina Lacerra<br/>PhD student @ Sapienza<br/>
+<p class="content-holder">
+  <a href="https://caterinalacerra.github.io/">Caterina Lacerra</a><br/>
+  PhD student @ Sapienza<br/>
 lacerra [at] di.uniroma1.it</p>
 </div>
 
