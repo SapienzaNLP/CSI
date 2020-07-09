@@ -28,7 +28,7 @@
   author = {Lacerra, Caterina and Bevilacqua, Michele and Pasini, Tommaso and Navigli, Roberto},
   booktitle = {Proceedings of the 34th Conference on Artificial Intelligence},
   pages     = {8123--8130},
-  publisher = {{AAAI} Press},
+  publisher = { {AAAI} Press},
   year      = {2020}
 }
 ```
